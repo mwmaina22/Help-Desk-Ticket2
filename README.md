@@ -1,4 +1,4 @@
-#Ticket 2 ( Network Connectivity Issue (DNS) 
+# Ticket 2 ( Network Connectivity Issue (DNS) 
 
 ## Issue 
 User unable to access interent 
